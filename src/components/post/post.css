@@ -52,6 +52,10 @@
     display: flex;
     align-items: center;
 }
+button{
+    background-color: transparent;
+    border: none;
+}
 .likeIcon{
     font-size: 24px;
     margin-right: 5px;
