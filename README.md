@@ -1,3 +1,11 @@
+# React ile oluşturulmuş bir sosyaş medya uygulaması
+## Ön izleme için linke tıklayabilirsiniz 
+[Link](https://reactsocailapp.netlify.app/)
+
+![Website örnek resim](/public/assets/readMe/socialFriends.png)
+![Website örnek resim](/public/assets/readMe/socialFriends1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
